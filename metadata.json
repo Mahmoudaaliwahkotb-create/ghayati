@@ -1,0 +1,6 @@
+{
+  "name": "غايتي | Ghayati",
+  "description": "منصة غايتي للتعليم الخصوصي المعتمد - فصولي المباشرة، تقارير تقدم الطلاب، حجز الحصص التجريبية، وإدارة المحفظة الأكاديمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
